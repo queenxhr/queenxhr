@@ -14,8 +14,6 @@ My name is Ratu Syahirah Khairunnisa. I am an undergraduate Computer Science stu
 
 ## Language and Tools
 
-Berikut adalah beberapa teknologi dan alat yang sering saya gunakan:
-
 - **Programming Languages:** C, Python, R, C++, Java, PHP, HTML, CSS, Dart
 - **Frameworks & Libraries:** CodeIgniter (CI3), Flutter
 - **Database:** MySQL
