@@ -1,7 +1,7 @@
 ## Hi, Welcome to my GitHub profile👋
 ---
 
-My name is Ratu Syahirah Khairunnisa. I am an undergraduate Computer Science student at the Indonesian University of Education, with a strong interest in machine learning and data science using Python and R. I am passionate and results-driven, I embrace challenges and motivate myself and others to achieve impactful success. My goal is to shine brightly and inspire those around me with warmth and positivity.
+My name is Ratu Syahirah Khairunnisa. I am an undergraduate Computer Science student at the Indonesian University of Education. I am passionate and results-driven, I embrace challenges and motivate myself and others to achieve impactful success. My goal is to shine brightly and inspire those around me with warmth and positivity.
 
 ---
 
