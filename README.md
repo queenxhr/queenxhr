@@ -35,6 +35,8 @@ As a passionate and results-driven individual, I thrive on tackling challenges a
 * **Database:**
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+  ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square\&logo=mariadb\&logoColor=white)
 
 * **Tools:**
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
