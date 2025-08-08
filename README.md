@@ -11,16 +11,7 @@ As a passionate and results-driven individual, I thrive on tackling challenges a
 
 ---
 
-## 🌐 Connect With Me  
-- 📧 [Email Me](mailto:ratusyahirahk@gmail.com)  
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/ratu-syahirah-khairunnisa-949874282/)  
-
----
-
 ## 💻 Languages & Tools  
-Tadi aku sudah masukkan tambahan **Golang**, **Node.js**, **Vue.js**, **Gin**, dan **Figma**, tapi biar jelas aku tandai yang baru dengan 🔹:
-
----
 
 * **Programming Languages:**
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
@@ -52,7 +43,6 @@ Tadi aku sudah masukkan tambahan **Golang**, **Node.js**, **Vue.js**, **Gin**, d
 
 ---
 
-Kalau mau, aku bisa bikin **versi satu baris per kategori** biar langsung rapi untuk README GitHub. Mau aku bikin yang versi itu?
-
-
----
+## 🌐 Connect With Me  
+- 📧 [Email Me](mailto:ratusyahirahk@gmail.com)  
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/ratu-syahirah-khairunnisa-949874282/)  
