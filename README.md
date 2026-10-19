@@ -1,11 +1,10 @@
 
 ---
 
-# 🌟 Hi, Welcome to My GitHub Profile! 👋  
----
+# Hi, Welcome to My GitHub Profile! 👋  
 
 **Hello!**  
-My name is **Ratu Syahirah Khairunnisa**, an undergraduate **Computer Science student** at the **Indonesian University of Education**, specializing in **Web Development**.   
+My name is **Ratu Syahirah Khairunnisa**, **Computer Science** fresh graduate at the **Indonesian University of Education**, specializing in **Web Development**.   
 
 As a passionate and results-driven individual, I thrive on tackling challenges and crafting **intuitive, functional user interfaces**. With positivity and determination, I aim to inspire and achieve impactful success through my work.
 
@@ -48,3 +47,4 @@ As a passionate and results-driven individual, I thrive on tackling challenges a
 ## 🌐 Connect With Me  
 - 📧 [Email Me](mailto:ratusyahirahk@gmail.com)  
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/ratu-syahirah-khairunnisa-949874282/)  
+- 💌 [Portfolio](https://portfolio-ratu.vercel.app/)
